@@ -55,8 +55,8 @@
                     Contact
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="../contact.html">Contact Me</a>
-                    <a class="dropdown-item" href="../feedback.html">Feedback</a>
+                    <a class="dropdown-item" href="#">Contact Me</a>
+                    <a class="dropdown-item" href="#">Feedback</a>
                 </div>
             </li>
         </ul>
