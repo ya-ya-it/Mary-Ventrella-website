@@ -52,6 +52,7 @@ p {
     padding: 4em 5em;
     background-color: #f4f4f3;
     width: auto;
+    margin-left: 0!important;
 }
 .aside img{
     width: auto;
