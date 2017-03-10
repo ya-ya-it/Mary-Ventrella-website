@@ -1,0 +1,68 @@
+.poster {
+    width: auto;
+    background-image: url("../../images/main_home.jpeg");
+    font-family: Arial, sans-serif;
+    padding: 2em;
+    font-size: 2.5em;
+    height: 70vh;
+    color: white;
+    text-shadow: black 0 0 2px;
+
+    margin-top: 1em;
+}
+.jumbotron h1{
+    padding-top: 1em;
+    font-size: 0.95em;
+}
+
+
+.main_block {
+    margin: 0;
+    padding: 2em 5em;
+    background-color: white;
+    width: auto;
+    height: auto;
+}
+
+.main_block h3{
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+@media only screen and (max-width: 630px){
+    .main_block{
+        padding: 1em;
+    }
+    .aside {
+        padding: 2em!important;
+    }
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 1.3em;
+    word-spacing: 0.2em;
+    line-height: 1.2em;
+    padding: 1em 0 0;
+}
+
+.aside{
+    margin-top: 3em;
+    padding: 4em 5em;
+    background-color: #f4f4f3;
+}
+.aside img{
+    width: auto;
+    height: 12em;
+}
+.aside p{
+    padding-right: 1em;
+}
+
+.buttonLetsTalk{
+    margin-top: 3em;
+    margin-bottom: 4em;
+}
+
+
