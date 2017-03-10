@@ -49,8 +49,11 @@ p {
 
 .aside{
     margin-top: 3em;
-    padding: 4em 0 4em 5em;
+    padding: 4em 5em;
     background-color: #f4f4f3;
+}
+.row.aside{
+    margin-left: 0!important;
 }
 .aside img{
     width: auto;
