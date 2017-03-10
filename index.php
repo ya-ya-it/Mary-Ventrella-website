@@ -34,8 +34,8 @@
             <br> Mary Ventrella</p>
     </article>
 </main>
-<div class="row aside">
-    <div class="col-sm-6 col-md-6 col-lg-6">
+<div class="row aside" style="padding-right: 5em;margin-right: 0px;">
+    <div class="col-sm-7 col-md-7 col-lg-7">
         <h1>Team building</h1>
         <br/>
         <article class="brief-info">
