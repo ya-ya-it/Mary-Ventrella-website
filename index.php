@@ -35,7 +35,7 @@
     </article>
 </main>
 <div class="row aside">
-    <div class="col-sm-7 col-md-7 col-lg-7">
+    <div class="col-sm-6 col-md-6 col-lg-6">
         <h1>Team building</h1>
         <br/>
         <article class="brief-info">
