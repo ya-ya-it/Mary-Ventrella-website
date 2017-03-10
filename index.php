@@ -1,6 +1,6 @@
 
 <!-- NAVBAR -->
-<?php include_once('../config/navbar.php'); ?>
+<?php include_once('config/navbar.php'); ?>
 
 <section class="poster jumbotron">
     <div class="container"><h1 class="col-lg-12">Invest in yourself and the relationship that are important to you!</h1></div>
@@ -70,4 +70,4 @@
 </div>
 
 <!-- Footer -->
-<?php require_once('../config/footer.php'); ?>
+<?php require_once('config/footer.php'); ?>
