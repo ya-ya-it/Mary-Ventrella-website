@@ -48,7 +48,7 @@
         <button type="button" class="btn btn-outline-success btn-lg col-lg-11 buttonLetsTalk">Let's talk!</a></button>
     </div>
     <div class="col-sm-5 col-md-5 col-lg-5">
-        <h1>Ask me a quick qestion: </h1>
+        <h1>Ask me a quick question: </h1>
         <form method="post">
             <fieldset>
                 <label for="name">Name:</label>
